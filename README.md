@@ -27,7 +27,7 @@ Features
 
 Technologies Used
 
-    Frontend: HTML, CSS, JavaScript, React
+    Frontend: HTML, CSS, JavaScript, React and wordpress
     Backend: Python, Django
     Database: PostgreSQL
     Payment Gateway: Stripe/PayPal
